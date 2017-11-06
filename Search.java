@@ -29,7 +29,6 @@ public class Search {
     *         array
     */
    public int findSequential(int key) {
-      // YOU complete this method
       for (int i = 0; i < arr.length; i++) {
          if (arr[i] == key) {
             return i;
