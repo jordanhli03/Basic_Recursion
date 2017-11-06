@@ -1,5 +1,3 @@
-package Lab_01;
-
 public class RecursiveMath {
    public int Factorial(int n) {
       if (n == 0) {
